@@ -1,3 +1,2 @@
 # website_layout
-This is Basic structure of website!
-also known as Skeleton Framework!
+This is a Basic website with my ownstyle!
